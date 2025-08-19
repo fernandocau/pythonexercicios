@@ -18,4 +18,4 @@ Como usar
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/fernandocau/pythonexercicios.git 
+https://github.com/fernandocau/pythonexercicios.git 
