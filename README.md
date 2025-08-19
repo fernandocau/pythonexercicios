@@ -18,4 +18,4 @@ Uma aplicação em Python para cálculo de diversas grandezas físicas relaciona
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/fernandocau/calculadora-forcas-fisicas.git
+git clone https://github.com/fernandocau/pythonexercicios.git
